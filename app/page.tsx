@@ -207,11 +207,11 @@ export default function GourmetComboSalesPage() {
             </h2>
 
             <div className="bg-white/20 rounded-lg p-6 mb-6">
-              <p className="text-center text-sm mb-2">SAVINGS OF $30.00</p>
+              <p className="text-center text-sm mb-2">SAVINGS OF $35.00</p>
               <div className="flex items-center justify-center gap-4">
                 <span className="bg-red-600 text-white px-4 py-2 rounded-full font-bold">60% off</span>
                 <div>
-                  <p className="text-4xl font-bold">$19.99</p>
+                  <p className="text-4xl font-bold">$14.99</p>
                   <p className="line-through text-xl">$49.99</p>
                 </div>
               </div>
@@ -309,11 +309,11 @@ export default function GourmetComboSalesPage() {
             </h2>
 
             <div className="bg-white/20 rounded-lg p-6 mb-6">
-              <p className="text-center text-sm mb-2">SAVINGS OF $30.00</p>
+              <p className="text-center text-sm mb-2">SAVINGS OF $35.00</p>
               <div className="flex items-center justify-center gap-4">
                 <span className="bg-red-600 text-white px-4 py-2 rounded-full font-bold">60% off</span>
                 <div>
-                  <p className="text-4xl font-bold">$19.99</p>
+                  <p className="text-4xl font-bold">$14.99</p>
                   <p className="line-through text-xl">$49.99</p>
                 </div>
               </div>
@@ -473,11 +473,11 @@ export default function GourmetComboSalesPage() {
             <h3 className="text-2xl font-bold mb-6">📦 14x1 Gourmet Combo → 3 Ebooks with 160 Recipes + 11 Gifts 🎁</h3>
 
             <div className="bg-white/20 rounded-lg p-6 mb-6">
-              <p className="text-center text-sm mb-2">SAVINGS OF $30.00</p>
+              <p className="text-center text-sm mb-2">SAVINGS OF $35.00</p>
               <div className="flex items-center justify-center gap-4">
                 <span className="bg-red-600 text-white px-4 py-2 rounded-full font-bold">60% off</span>
                 <div>
-                  <p className="text-4xl font-bold">$19.99</p>
+                  <p className="text-4xl font-bold">$14.99</p>
                   <p className="line-through text-xl">$49.99</p>
                 </div>
               </div>
