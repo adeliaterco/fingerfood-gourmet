@@ -209,7 +209,7 @@ export default function GourmetComboSalesPage() {
             <div className="bg-white/20 rounded-lg p-6 mb-6">
               <p className="text-center text-sm mb-2">SAVINGS OF $35.00</p>
               <div className="flex items-center justify-center gap-4">
-                <span className="bg-red-600 text-white px-4 py-2 rounded-full font-bold">60% off</span>
+                <span className="bg-red-600 text-white px-4 py-2 rounded-full font-bold">65% off</span>
                 <div>
                   <p className="text-4xl font-bold">$14.99</p>
                   <p className="line-through text-xl">$49.99</p>
@@ -311,7 +311,7 @@ export default function GourmetComboSalesPage() {
             <div className="bg-white/20 rounded-lg p-6 mb-6">
               <p className="text-center text-sm mb-2">SAVINGS OF $35.00</p>
               <div className="flex items-center justify-center gap-4">
-                <span className="bg-red-600 text-white px-4 py-2 rounded-full font-bold">60% off</span>
+                <span className="bg-red-600 text-white px-4 py-2 rounded-full font-bold">65% off</span>
                 <div>
                   <p className="text-4xl font-bold">$14.99</p>
                   <p className="line-through text-xl">$49.99</p>
@@ -435,7 +435,7 @@ export default function GourmetComboSalesPage() {
               },
               {
                 q: "🚨 How long do I have to take advantage of the offer?",
-                a: "This special offer with 60% discount and 11 free bonuses is only available for a limited time. Don't miss out!",
+                a: "This special offer with 65% discount and 11 free bonuses is only available for a limited time. Don't miss out!",
               },
               {
                 q: "💵 Why is the offer so cheap compared to the actual value of the ebooks?",
@@ -475,7 +475,7 @@ export default function GourmetComboSalesPage() {
             <div className="bg-white/20 rounded-lg p-6 mb-6">
               <p className="text-center text-sm mb-2">SAVINGS OF $35.00</p>
               <div className="flex items-center justify-center gap-4">
-                <span className="bg-red-600 text-white px-4 py-2 rounded-full font-bold">60% off</span>
+                <span className="bg-red-600 text-white px-4 py-2 rounded-full font-bold">65% off</span>
                 <div>
                   <p className="text-4xl font-bold">$14.99</p>
                   <p className="line-through text-xl">$49.99</p>
